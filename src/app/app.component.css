@@ -235,6 +235,23 @@ div .boton:hover{
     color: white;
     margin: 50px;
 }
+
+.venta2 a {
+    font-size: 30px;
+    color: white;
+    margin: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.venta2 a img {
+   width: 30px;
+   margin-right: 20px;
+}
+
+
 .pago150USD a{
     width: 180px;
     height: 70px;
