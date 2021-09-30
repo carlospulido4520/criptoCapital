@@ -332,4 +332,24 @@ h1 img{
     margin-top: 0px !important;
 }
 
+.container-titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    background-color: #F0B742;
+    border-radius: 15px;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1 {
+    color: white;
+}
+
 
