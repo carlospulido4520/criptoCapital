@@ -122,7 +122,7 @@ div .boton:hover{
 }
 @media (max-width: 520px) {
     .img-info img{
-        width:98%;
+        width:100%;
     }
 }
 .texto-info{
